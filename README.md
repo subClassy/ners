@@ -1,11 +1,6 @@
-# Code for Neural Reflectance Surfaces (NeRS)
+# Code for pixelNeRS
 
-[[`arXiv`](https://arxiv.org/abs/2110.07604)]
-[[`Project Page`](https://jasonyzhang.com/ners/)]
-[[`Colab Demo`](https://colab.research.google.com/drive/1L4Sl_9Osc2J_I5YpkteLrb-VbnwdDokd?usp=sharing)]
-[[`Bibtex`](#CitingNeRS)]
-
-This repo contains the code for NeRS: Neural Reflectance Surfaces.
+This repo contains the code for a modified version of NeRS: pixelNeRS.
 
 The code was tested with the following dependencies:
 * Python 3.8.6
